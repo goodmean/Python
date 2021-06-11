@@ -12,3 +12,10 @@ a = 10
 b = 100
 print("a : {}".format(a))
 print("b : {}".format(b))
+
+age = 20
+
+if age >= 20:
+	print("성인입니다.")
+else:
+	print("미성년자입니다.")
