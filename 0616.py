@@ -1,7 +1,7 @@
 dan = 3
 
 while dan <= 8:
-	print("== {}´Ü ==".format(dan))
+	print("== {}ï¿½ï¿½ ==".format(dan))
 	i = 1
 	while i <= 9:
 		print("{} * {} = {}".format(dan, i, dan*i))
